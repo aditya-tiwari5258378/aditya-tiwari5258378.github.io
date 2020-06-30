@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aditya-tiwari5258378.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/aditya-tiwari5258378.github.io/static/js/main.fb61a36b.chunk.js",
+    "main.js.map": "/aditya-tiwari5258378.github.io/static/js/main.fb61a36b.chunk.js.map",
+    "runtime-main.js": "/aditya-tiwari5258378.github.io/static/js/runtime-main.13e62a74.js",
+    "runtime-main.js.map": "/aditya-tiwari5258378.github.io/static/js/runtime-main.13e62a74.js.map",
+    "static/js/2.0d3048ea.chunk.js": "/aditya-tiwari5258378.github.io/static/js/2.0d3048ea.chunk.js",
+    "static/js/2.0d3048ea.chunk.js.map": "/aditya-tiwari5258378.github.io/static/js/2.0d3048ea.chunk.js.map",
+    "index.html": "/aditya-tiwari5258378.github.io/index.html",
+    "precache-manifest.ba4f1bb5f1c4594d7b2f4af975f3f5e7.js": "/aditya-tiwari5258378.github.io/precache-manifest.ba4f1bb5f1c4594d7b2f4af975f3f5e7.js",
+    "service-worker.js": "/aditya-tiwari5258378.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/aditya-tiwari5258378.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0d3048ea.chunk.js.LICENSE.txt": "/aditya-tiwari5258378.github.io/static/js/2.0d3048ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13e62a74.js",
+    "static/js/2.0d3048ea.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fb61a36b.chunk.js"
+  ]
+}
